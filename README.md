@@ -4,4 +4,4 @@ Untuk bagian Stateless, nilai counter pada teks terlihat tidak berubah meskipun 
 
 Sementara untuk Stateful, nilai counter pada teks dan terminal terlihat berubah seiiring ditekannya tombol Increment. Hal ini berarti selain mampu mengubah dan menyimpan nilai atau kondisi variabel di belakang layar, Stateful juga sekaligus memperbarui tampilan UI yang menampilkan variabel tersebut ketika nilainya berubah (dinamis).
 
-Berdasarkan penjelasan tersebut, bisa disimpulkan bahwa Stateless lebih cocok digunakan pada komponen UI yang tidak akan berubah atau tidak memiliki kondisi, seperti ikon atau header. Sementara, Stateful lebih cocok digunakan pada komponen UI yang dapat berubah-ubah sesuai nilai atau kondisi tertentu, seperti fitur mode gelap.
+Berdasarkan penjelasan tersebut, bisa disimpulkan bahwa Stateless lebih cocok digunakan pada komponen UI yang tidak akan berubah atau tidak memiliki kondisi, seperti ikon atau header. Sementara, Stateful lebih cocok digunakan pada komponen UI yang dapat berubah-ubah sesuai nilai atau kondisi tertentu, seperti checkbox.
